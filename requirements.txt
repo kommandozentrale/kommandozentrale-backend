@@ -1,0 +1,2 @@
+pyyaml==3.11
+autobahn==0.14.1

@@ -1,0 +1,10 @@
+communication_backends: []
+modules:
+  test_lampe:
+      type: BinaryLightTest
+      name: Test Lampe
+groups:
+  - test_lights:
+      name: Test Lichter
+      devices:
+        - test_lampe

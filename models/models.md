@@ -1,1 +1,0 @@
-For every model used there MUST be a file named like the model but in snake_case instead of CamelCase.
